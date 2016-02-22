@@ -24,6 +24,7 @@ public void cargarMatriz(){
 ///commit 1 master
 //commit 2 master
 //commit 3 master
+//commit 4 master
 public void amosarMatriz(){  
     for(int f=0;f<notas.length;f++){
         for(int c=0;c<notas[f].length;c++){
